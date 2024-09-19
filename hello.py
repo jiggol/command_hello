@@ -1,5 +1,6 @@
 // For command line git toturial
-// Local repository modification
+// First : Github modification
+// Second : repository modification
 
 print("Hello world")
 print("Tell Your World")
